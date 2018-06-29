@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/gson-2.8.1.jar"/>
+	<classpathentry kind="lib" path="lib/guava-23.0.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-analyzers-common-7.3.0.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-codecs-7.3.0.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-core-7.3.0.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-demo-7.3.0.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-highlighter-7.3.0.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-queryparser-7.3.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
