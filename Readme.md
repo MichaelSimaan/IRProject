@@ -6,7 +6,7 @@ Information retrieval using the “Yahoo Non-Factoid Question Dataset” taken f
 - Python
     - nltk library
     - gensim library
-    - enchant library
+    - pyenchant library
 
 ## How to use
 1. Edit Questions.txt file with your questions.  
